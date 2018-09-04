@@ -1,2 +1,4 @@
 android is awesome
 android is vast
+
+android is beautiful
